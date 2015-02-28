@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Product data-->
+<Products>
+	<Product Code="A4CS">
+		<Description>Murach's ASP.llBT 4 with Cl 2010</Description>
+		<Price>58.50</Price>
+	</Product>
+	<Product Code="JAVP">
+		<Description>Murach Java Programming</Description>
+		<Price>56.50</Price>
+	</Product>
+	<Product Code="CS10">
+		<Description>Murachs Cl 2010</Description>
+		<Price>56.50</Price>
+	</Product>
+</Products>
