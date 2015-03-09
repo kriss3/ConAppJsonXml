@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Copy of MyApp.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="IPrintable.cs" />
     <Compile Include="MyApp.cs" />
